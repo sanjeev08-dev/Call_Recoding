@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Auto Call Recoding</string>
+    <string name="logout">Logout</string>
+    <string name="account">Account</string>
+    <string name="no_user">No user found!!</string>
+    <string name="login_in">Login</string>
+    <string name="sign_in">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="play_button">Play Button</string>
+    <string name="no_user_found">No user found</string>
+    <string name="get_account">get account</string>
+</resources>

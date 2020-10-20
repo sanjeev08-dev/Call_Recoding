@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076780496387",
+    "firebase_url": "https://auto-call-recorder-756aa.firebaseio.com",
+    "project_id": "auto-call-recorder-756aa",
+    "storage_bucket": "auto-call-recorder-756aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076780496387:android:6487815d9794d9cde9c036",
+        "android_client_info": {
+          "package_name": "com.sanjeevdev.callrecodingdemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076780496387-iu6v6koo9sgkkerq0b3lbohkefvj2rq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeURoO1Y7mYD3HWyIDMRoP6lCbQrCHhkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076780496387-iu6v6koo9sgkkerq0b3lbohkefvj2rq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
